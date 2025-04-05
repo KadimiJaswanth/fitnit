@@ -1,8 +1,3 @@
-Here’s a complete `README.md` for your **Fitnit** Flutter app that includes Firebase authentication and Firestore signup data storage. You can upload this to your GitHub repo:
-
----
-
-```markdown
 # Fitnit 🏋️‍♂️📱
 
 **Fitnit** is a Flutter-based fitness management app designed for athletes, coaches, and organizations. It enables performance tracking, injury management, and personalized growth through Firebase integration.
@@ -48,7 +43,6 @@ dependencies:
   table_calendar: ^3.0.8
   pie_chart: ^5.4.0
   cupertino_icons: ^1.0.8
-```
 
 ---
 
